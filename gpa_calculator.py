@@ -1,0 +1,10 @@
+unit_1 = float(input("Enter the marks for unit 1: "))
+unit_2 = float(input("Enter the marks for unit 2: "))
+unit_3 = float(input("Enter the marks for unit 3: "))
+unit_4 = float(input("Enter the marks for unit 4: "))
+average = (unit_1 + unit_2 + unit_3 + unit_4) / 4
+print("the marks for unit 1: " + str(unit_1))
+print("the marks for unit 2: " + str(unit_2))
+print("the marks for unit 3: " + str(unit_3))
+print("the marks for unit 4: " + str(unit_4))
+print("the average marks: " + str(average))
