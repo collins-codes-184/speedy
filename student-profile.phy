@@ -1,6 +1,0 @@
-name = input("what is your name?")
-course = input("what is your course?")
-university = input("which is your university?")
-admission_number = input("what is admission number?")
-favourite_programming_language = input("which is your favourite programming language?")
-print(name)
